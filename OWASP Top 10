@@ -1,0 +1,14 @@
+OWASP Top 10
+
+The vulnerabilities:
+
+Injection
+Broken Authentication
+Sensitive Data Exposure
+XML External Entity
+Broken Access Control
+Security Misconfiguration
+Cross-site Scripting
+Insecure Deserialization
+Components with Known Vulnerabilities
+Insufficient Logging & Monitoring
